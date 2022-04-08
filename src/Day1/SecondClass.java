@@ -4,4 +4,6 @@ public class SecondClass {
     // made class
 
     // changes
+
+    // more changes
 }
